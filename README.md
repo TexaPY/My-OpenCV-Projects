@@ -1,11 +1,13 @@
-## **[Aposun OpenCV Kodlarına Hoşgeldiniz](https://texa.anlayana.com)**
+## **[Welcome to Aposun OpenCV Codes](https://texa.anlayana.com)**
 
-Bu repoyu bulduysanız ya işsiz gibi tüm GitHub'u aramışsınızdır ya da Tunç Beyefendi size referans olarak bu repoyu yollamıştır.
+If you found this repo, either you searched GitHub like an unemployed person or Mr. Tunç sent you this repo as a reference.
 
-**Otonom Drone Kodlarına Ulaşmak İçin [Mail Atınız.](mailto:tambasabdullah@gmail.com)**
+**To Reach Autonomous Drone Codes [Send Mail.](mailto:tambasabdullah@gmail.com)**
 
-**İyi çalışmalar.**
+**Good work.
 
 
 [Anlayana.com®](https://anlayana.com)
+
+![APOS](.sky.jpeg "Helelele")
 
