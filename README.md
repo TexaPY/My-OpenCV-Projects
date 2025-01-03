@@ -1,5 +1,5 @@
 ## **[Aposun OpenCV Kodlarına Hoşgeldiniz](https://texa.anlayana.com)**
-Bu repoyu bulduysanız ya işsiz gibi tüm GitHub'u aramışsınızdır ya da Tunç Beyefendi size referans olarak bu repoyu yollamıştır.
+Bu repoyu bulduysanız ya işsiz gibi tüm GitHub'u aramışsınızdır ya da Tunç Beyefendi size referans olarak bu repoyu yollamıştır. </br>
 **İyi çalışmalar.**
 [Anlayana.com®](https://anlayana.com)
 
